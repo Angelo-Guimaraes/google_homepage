@@ -28,6 +28,26 @@
 .icong{
     position: absolute;
     top: 30%;
-    left: 50%;
+    left: 60%;
     transform:translate(-50%,-50%);
+}
+
+.search{
+    position: relative;
+    left: -15%;
+    width: 450px;
+    height: 42px;
+    border: 1px solid rgb(83, 83, 83);
+    border-radius: 30px;
+} 
+
+.searchbox{
+    position: relative;
+    top: 0px;
+    left: 17px;
+    height: 42px;
+    width: 390px;
+    border: none;
+    padding: 0px 10px;
+    
 }
